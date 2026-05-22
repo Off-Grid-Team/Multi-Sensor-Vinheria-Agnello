@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Andamento-9B1D30?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Finalizado-9B1D30?style=for-the-badge)
 ![Checkpoint](https://img.shields.io/badge/Checkpoint-02-D4AF37?style=for-the-badge&color=D4AF37)
 ![Web Development](https://img.shields.io/badge/Edge-Computing-6B3E2A?style=for-the-badge)
 
