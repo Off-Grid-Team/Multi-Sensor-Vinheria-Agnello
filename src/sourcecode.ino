@@ -1,5 +1,12 @@
 // C++ code
 
+/* INTEGRANTES DO GRUPO
+    Felipe Rabelo	RM570340
+    Gustavo Ferreira Tavares	RM569928
+    Ricardo Salmerón	RM572916
+*/
+
+
 //#define DHTPIN7 7 // sensor DHT conectado ao pino 7
 
 //#include "DHT.h"
