@@ -85,7 +85,7 @@ Utilizada para controlar o Display LCD através de apenas 2 fios (I2C).
 ### 📐 Diagramas
 | Link Tinkercard |
 | :---------------------------------------: |
-| [Clique aqui para acessar!](https://www.tinkercad.com/things/lsez4V5MCBO-multi-sensor-vinheriaagnello-offgrid) |
+| [Clique aqui para acessar!](https://www.tinkercad.com/things/lkgLl19LRHl-temperaturaumidade-vinheria-agnello?sharecode=YlTjqZkmewffe9tO3R5gVDQQ_gfvheSdDE0nYS-RPK4) |
 
 
 
@@ -100,7 +100,7 @@ Utilizada para controlar o Display LCD através de apenas 2 fios (I2C).
 
 | Link |
 | :------------: |
-| link aqui |
+| https://youtu.be/bfFJgH0xQTE |
 
 ### 👥 Partipantes
 
